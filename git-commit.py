@@ -3,7 +3,6 @@ import sys
 import pyautogui
 import winsound
 import time
-import keyboard
 
 
 # pyautogui.mouseInfo()
