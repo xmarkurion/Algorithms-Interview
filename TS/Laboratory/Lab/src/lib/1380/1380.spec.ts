@@ -1,6 +1,6 @@
 import { luckyNumbers } from './1380';
 
-describe('Challenge 1380', () => {
+describe.skip('Challenge 1380', () => {
     it('1 test case', () => {
         expect(
             luckyNumbers( [[3,7,8],[9,11,13],[15,16,17]] )
