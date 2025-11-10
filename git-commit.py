@@ -1,6 +1,5 @@
 import os
 import sys
-import pyautogui
 import winsound
 import time
 
